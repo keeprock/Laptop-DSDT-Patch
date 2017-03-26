@@ -28,6 +28,14 @@ into device label EC0 code_regex BDC0,\s+16 replace_matched begin DC00,8,DC01,8 
 into device label EC0 code_regex BFC0,\s+16 replace_matched begin FC00,8,FC01,8 end;
 into device label EC0 code_regex BPC0,\s+16 replace_matched begin PC00,8,PC01,8 end;
 into device label EC0 code_regex BAC0,\s+16 replace_matched begin AC00,8,AC01,8 end;
+into device label EC0 code_regex BCG0,\s+16 replace_matched begin CG00,8,CG01,8 end;
+into device label EC0 code_regex BSSB,\s+16 replace_matched begin SSB0,8,SSB1,8 end;
+into device label EC0 code_regex BCV1,\s+16 replace_matched begin CV10,8,CV11,8 end;
+into device label EC0 code_regex BCV2,\s+16 replace_matched begin CV20,8,CV21,8 end;
+into device label EC0 code_regex BCV3,\s+16 replace_matched begin CV30,8,CV31,8 end;
+into device label EC0 code_regex BCV4,\s+16 replace_matched begin CV40,8,CV41,8 end;
+into device label EC0 code_regex BMD0,\s+16 replace_matched begin MD00,8,MD01,8 end;
+into device label EC0 code_regex BACV,\s+16 replace_matched begin ACV0,8,ACV1,8 end;
 
 # _BIF 16-bit
 into method label _BIF code_regex \(\^\^EC0\.BSN0, replaceall_matched begin (B1B2(^^EC0.SN00,^^EC0.SN01), end;
