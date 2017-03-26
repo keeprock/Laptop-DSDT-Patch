@@ -51,6 +51,7 @@ Sleep(0x32)\n
 Store(B1B2(Local7,^^EC0.FC01),
 end;
 
+
 # _BST 16-bit
 
 into method label _BST code_regex Store\s+\(\^\^EC0\.BPV0, replaceall_matched
@@ -65,7 +66,7 @@ begin
 Store(^^EC0.FC00, Local7)\n
 Sleep(0x14)\n
 Store(B1B2(Local7,^^EC0.FC01),
-end
+end;
 
 into method label _BST code_regex Store\s+\(\^\^EC0\.BAC0, replaceall_matched
 begin
@@ -83,4 +84,4 @@ end;
 into method label FANW code_regex Store\s+\(Arg0,\s+ENIB\) replace_matched
 begin
 Store(Arg0, ENI0) Store(ShiftRight(Arg0, 8), ENI1)
-end
+end;
