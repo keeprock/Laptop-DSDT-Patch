@@ -25,6 +25,9 @@ into device label EC0 code_regex BSN0,\s+16 replace_matched begin SN00,8,SN01,8 
 into device label EC0 code_regex BPV0,\s+16 replace_matched begin PV00,8,PV01,8 end;
 into device label EC0 code_regex BDV0,\s+16 replace_matched begin DV00,8,DV01,8 end;
 into device label EC0 code_regex BDC0,\s+16 replace_matched begin DC00,8,DC01,8 end;
+into device label EC0 code_regex BFC0,\s+16 replace_matched begin FC00,8,FC01,8 end;
+into device label EC0 code_regex BPC0,\s+16 replace_matched begin PC00,8,PC01,8 end;
+into device label EC0 code_regex BAC0,\s+16 replace_matched begin AC00,8,AC01,8 end;
 
 # _BIF 16-bit
 into method label _BIF code_regex \(\^\^EC0\.BSN0, replaceall_matched begin (B1B2(^^EC0.SN00,^^EC0.SN01), end;
@@ -40,6 +43,14 @@ Store(^^EC0.DC00, Local7)\n
 Sleep(0x14)\n
 Store(B1B2(Local7,^^EC0.DC01),
 end;
+
+into method label _BIF code_regex Store\s+\(\^\^EC0\.BFC0, replaceall_matched
+begin
+Store(^^EC0.FC00, Local7)\n
+Sleep(0x32)\n
+Store(B1B2(Local7,^^EC0.FC01),
+end;
+
 # _BST 16-bit
 
 into method label _BST code_regex Store\s+\(\^\^EC0\.BPV0, replaceall_matched
@@ -47,6 +58,20 @@ begin
 Store(^^EC0.PV00, Local3)\n
 Sleep(0x14)\n
 Store(B1B2(Local3,^^EC0.PV01),
+end;
+
+into method label _BST code_regex Store\s+\(\^\^EC0\.BFC0, replaceall_matched
+begin
+Store(^^EC0.FC00, Local7)\n
+Sleep(0x14)\n
+Store(B1B2(Local7,^^EC0.FC01),
+end
+
+into method label _BST code_regex Store\s+\(\^\^EC0\.BAC0, replaceall_matched
+begin
+Store(^^EC0.AC00, Local7)\n
+Sleep(0x14)\n
+Store(B1B2(Local7,^^EC0.AC01),
 end;
 
 # fan 16-bit
