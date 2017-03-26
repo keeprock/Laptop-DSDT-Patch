@@ -2,178 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b924c66-eab4-4d88-96ed-78875f904226" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patches.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patches.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/audio_HDEF-layout12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/audio_HDEF-layout12a.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/audio_HDEF-layout3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_ASUS-G75vw.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_ASUS-N55SL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Acer-Aspire-5737z.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Acer-Aspire-5741g.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Acer-Aspire-5750g.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Acer-Aspire-E1-571.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Acer-S7-391.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Alienware-m15x.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Clevo-M860TU.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Clevo-P15SM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Clevo-W170HN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Compaq-CQ60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-Inspiron-13z.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-Inspiron-15-7xxx.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-Inspiron-5548.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-Studio-1558.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-Vostro-15xx.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-XPS-13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-XPS-14Z-L412Z.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-XPS-18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Dell-XPS-L502x.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Fujitsu-Lifebook-A555.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Gateway-ID49C07u.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Gigabyte-P35Xv3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Gigabyte-u2442N.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DM4T-1000.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DV2-2500.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DV6-3165sf.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DV6t-6b00.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DV7-1120.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DV7-6xxx.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-DV7-7xxx.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Elite-X2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Envy-14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Envy-17t.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Envy-4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Envy-DV6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Envy-M4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Folio-13-1010es.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-G6-2221ss.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-G62-B13SL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Pavilion-n012tx.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-ProBook-4x0s-G1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-ProBook-Generic.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_HP-Spectre-XT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_LG-N450.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-E430.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-G50-70.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Ideapad-100.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Ideapad-Y700.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-L420.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-N480.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-T430u.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-T440p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-ThinkPad-W550s.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Twist.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Ux10-Z580.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-X201.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-X220.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-X230i.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Y50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Yoga-13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Yoga-Pro2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Yoga-S1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-Z50-70.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-y510p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-y570.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-y580.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Lenovo-z470-z370.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_MECHREVO-x6TI.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Medion-Akoya-P6630.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Microxperts-u731ga1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Partaker_G3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Razer-Blade-2014.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Razer-Blade-Pro.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Samsung-NP300E5K-XF3BR.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Samsung-NP470R5E.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Samsung-RF411.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Samsung-Series3-NP300.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Samsung-r528.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Samsung_NP730U3E_X04IT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Sony-VAIO-S.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Sony-VAIO-SVE1511.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Sony-VAIO-SZ1XP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Surface-Pro-v1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Surface-Pro-v2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Surface-Pro-v3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Surface-Pro-v4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_TabletKiosk-i575.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Thunderobot-911.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Toshiba-A660-16Z.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/battery/battery_Vizio-Ultrabook-CT14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_EDID.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_HD3K_high.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_HD3K_low.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_HD4600_yosemite.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_HD4K_high.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_HD4K_low.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_Haswell_0a260006.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_INI-disable.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_MEI_ivy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_MEI_sandy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PNLF-ACPI100.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PNLF-Lenovo-Ux10a.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PNLF-Lenovo-Ux10b.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PNLF.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PNLF_haswell.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PNLF_ivy_sandy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_PTS_WAK-disable.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_REG-disable.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_Rename-B0D3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_Rename-GFX0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_Rename-PCI0_GFX0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_Rename-PCI0_VID.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_Rename-VID_AGP1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_SSDT-disable-cleanup.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_nvidia_gt520m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_nvidia_laptop.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/graphics/graphics_nvidia_laptop2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/control_AcerFan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/misc_Haswell-LPC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/misc_LidPoll.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/misc_Lid_PRW.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/misc/misc_Skylake-LPC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_ADBG.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_FDE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_FPED.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_HID_pnp.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_IRC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_MMTB.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_PARSEOP_ZERO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_PLD.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_PSS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/fix_TNOT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/remove_DSM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syntax/rename_DSM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_ADP1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_HPET.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_IAOE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_IMEI.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_IRQ.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_MCHC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_Mutex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_OSYS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_OSYS_win7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_OSYS_win8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_PNOT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_RTC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_SMBUS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_Shutdown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_Shutdown2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_WAK1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/system_WAK2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_6-series-id.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_6-series.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_7-series-id.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_7-series-multiplex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_7-series.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_prw_0x0d_xhc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_prw_0x0d_xhc_skl.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_prw_0x6d_xhc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usb/usb_prw_0x6d_xhc_skl.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wifi/wifi_AR9285-RP02-PXSX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wifi/wifi_AR9285-RP02-WLAN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wifi/wifi_AR9285-RP02-WNIC.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/battery/test.txt" afterPath="$PROJECT_DIR$/battery/battery_test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.maciasl" afterPath="$PROJECT_DIR$/.maciasl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/battery/temp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/battery/battery_test.txt" afterPath="$PROJECT_DIR$/battery/battery_test.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -188,27 +18,47 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".maciasl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.maciasl">
+      <file leaf-file-name="battery_test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/battery/battery_test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+            <state relative-caret-position="196">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="battery_test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/battery/battery_test.txt">
+      <file leaf-file-name="temp.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/battery/temp.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="662">
+              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="battery_Acer-Aspire-4830T.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/battery/battery_Acer-Aspire-4830T.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bdv0</find>
+      <find>BRC0</find>
+      <find>BPV0</find>
+      <find>BSN0</find>
+      <find>BDV0</find>
+      <find>bdc0</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,6 +67,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.maciasl" />
+        <option value="$PROJECT_DIR$/battery/temp.txt" />
+        <option value="$PROJECT_DIR$/battery/battery_test.txt" />
       </list>
     </option>
   </component>
@@ -227,8 +79,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
     <option name="y" value="23" />
-    <option name="width" value="1366" />
+    <option name="width" value="683" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectView">
@@ -367,18 +220,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490483421756</updated>
-      <workItem from="1490483425640" duration="156000" />
+      <workItem from="1490483425640" duration="4036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156000" />
+    <option name="totallyTimeSpent" value="4036000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="741" extended-state="6" />
+    <frame x="683" y="23" width="683" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -407,18 +260,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/battery/battery_test.txt">
+    <entry file="file://$PROJECT_DIR$/.maciasl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.maciasl">
+    <entry file="file://$PROJECT_DIR$/battery/battery_Acer-3820tg.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/battery/battery_Acer-Aspire-4830T.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/battery/battery_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/battery/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
       </provider>
